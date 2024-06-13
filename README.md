@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**josefbruseke/josefbruseke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+👋 Olá! Sou Josef, graduando em Sistemas de Informação pela Universidade Federal de Santa Catarina (UFSC). Estou atualmente estagiando no Conselho Regional de Santa Catarina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Conhecimentos Técnicos
+
+- **Linguagens de Programação:**
+  - 🐍 Python
+  - ☕ Java
+  - 🌐 JavaScript
+- **Desenvolvimento Web:**
+  - 🌐 HTML
+  - 🎨 CSS
+- **Frameworks e Bibliotecas:**
+  - 🚀 Next.js
+  - ⚛️ React.js
+- **Ferramentas e Metodologias:**
+  - 🔧 Git / GitHub
+  - 💾 SQL
+  - 📈 Scrum
+  - 📊 Kanban
+  - 🗂️ Trello
+ 
+  ## 🌎 Idiomas
+
+- **Inglês:** Avançado
+- **Alemão:** Intermediário
+- **Francês:** Intermediário
+- **Espanhol:** Intermediário
+
+## 🌟 Traços Pessoais
+
+- 💬 Comunicativo e respeitoso no trato com as pessoas
+- 🛠️ Capaz de desenvolver soluções práticas e rápidas em processos
+- 😌 Bastante resistente ao stress cotidiano
+- 🌐 Flexível, acostumado a mudanças e outras culturas
+
+## 📞 Contato
+
+- **LinkedIn:** [linkedin.com/in/josefbruseke](https://www.linkedin.com/in/josefbruseke)
+
