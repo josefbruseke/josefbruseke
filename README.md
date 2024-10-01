@@ -1,44 +1,27 @@
 ## Hi there 👋
 
-## Sobre Mim
+## About me
 
-👋 Olá! Sou Josef, graduando em Sistemas de Informação pela Universidade Federal de Santa Catarina (UFSC). Estou atualmente estagiando no Conselho Regional de Santa Catarina.
+👋 Hello! I'm Josef, an undergraduate student in Information Systems at the Federal University of Santa Catarina (UFSC). Currently interning at the Regional Council of Santa Catarina.
 
 
-## 🛠️ Conhecimentos Técnicos
-
-- **Linguagens de Programação:**
-  - 🐍 Python
-  - ☕ Java
-  - 🌐 JavaScript
-- **Desenvolvimento Web:**
-  - 🌐 HTML
-  - 🎨 CSS
-- **Frameworks e Bibliotecas:**
-  - 🚀 Next.js
-  - ⚛️ React.js
-- **Ferramentas e Metodologias:**
-  - 🔧 Git / GitHub
-  - 💾 SQL
-  - 📈 Scrum
-  - 📊 Kanban
-  - 🗂️ Trello
+## 🛠️ My Stack
+- 🌐 TypeScript
+- 🚀 Next.js
+- ⚛️ React.js
+- 🦀 Rust
+- ⚓ Anchor.rs
+- 🐍 Python
  
-  ## 🌎 Idiomas
+## 🌎 Human Languages
+- Portuguese 🇧🇷
+- English 🇬🇧
+- German  🇩🇪
+- Spanish 🇪🇸
+- French  🇫🇷
 
-- **Inglês:** Avançado
-- **Alemão:** Intermediário
-- **Francês:** Intermediário
-- **Espanhol:** Intermediário
 
-## 🌟 Traços Pessoais
-
-- 💬 Comunicativo e respeitoso no trato com as pessoas
-- 🛠️ Capaz de desenvolver soluções práticas e rápidas em processos
-- 😌 Bastante resistente ao stress cotidiano
-- 🌐 Flexível, acostumado a mudanças e outras culturas
-
-## 📞 Contato
+## 📞 Other Social Medias
 
 - **LinkedIn:** [linkedin.com/in/josefbruseke](https://www.linkedin.com/in/josefbruseke)
 
