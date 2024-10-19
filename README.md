@@ -2,7 +2,7 @@
 
 ## About me
 
-👋 Hello! I'm Josef, an undergraduate student in Information Systems at the Federal University of Santa Catarina (UFSC). Currently interning at the Regional Council of Santa Catarina.
+👋 Hello! I'm Josef, an undergraduate student in Information Systems at the Federal University of Santa Catarina (UFSC). Currently interning at the Regional Accounting Council of Santa Catarina.
 
 
 ## 🛠️ My Stack
